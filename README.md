@@ -1,0 +1,1 @@
+Código para extração de dados via webscraping e construção de redes de coautorias utilizado no artigo: Visualização de redes de coautoria como insumo bibliométrico à revistas científicas: uma proposta via web scraping para os periódicos Em Questão e Encontros Bibli
